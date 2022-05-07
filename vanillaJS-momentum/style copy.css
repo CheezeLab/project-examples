@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: conflowerblue;
+    transition: color 0.5s;
+}
+
+.active {
+    color: tomato;
+}

@@ -19,6 +19,10 @@ yarn dev
 
 별도의 CHANGELOG 파일 없이 이곳에 기록합니다.
 
+### 2022-05-05
+
+- next-swagger-doc (example)
+
 ### 2022-05-01
 
 - 추가 ts-tsnode, next-tailwind-ts
