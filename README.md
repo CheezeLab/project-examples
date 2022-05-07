@@ -21,7 +21,7 @@ yarn dev
 
 ### 2022-05-05
 
-- next-swagger-doc (example)
+- vanillaJS-momentum, next-swagger-doc (example)
 
 ### 2022-05-01
 
